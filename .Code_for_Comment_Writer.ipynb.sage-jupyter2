@@ -1,0 +1,5 @@
+{"backend_state":"ready","kernel":"anaconda2022","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"last_backend_state":1738967682871,"last_ipynb_save":1738968856516,"type":"settings"}
+{"cell_type":"code","exec_count":0,"id":"d02a83","input":"# functions and code for reading data files, generating comments and writing them to files\n\n","pos":1,"type":"cell"}
+{"cell_type":"markdown","id":"3982e1","input":"### Comment Writing Engine\n\n#### an application to help teachers write better comments in less time\n","pos":0,"type":"cell"}
+{"id":0,"time":1738967682684,"type":"user"}
+{"last_load":1738967682869,"type":"file"}
